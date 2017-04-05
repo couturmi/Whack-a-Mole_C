@@ -1,5 +1,16 @@
 /********************************************************************
  * Program 3 : Whack-a-Mole
+ * 
+ * 8 Command Lines Args
+ * ------------------
+ * 1. X-Dimension of Game Board
+ * 2. Y-Dimension of Game Board
+ * 3. Total Number of Moles in the Game
+ * 4. Max Number of Moles out at one time
+ * 5. Minimum time a mole will hide
+ * 6. Maximum time a mole will hide
+ * 7. Minimum time a mole will be out
+ * 8. Maximum time a mole will be out
  *
  * author: Mitch Couturier
  * date: 4/3/2017
